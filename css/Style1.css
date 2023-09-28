@@ -1,0 +1,98 @@
+.container{width:1200px;height:auto;background-color:beige;}
+    .panel2{background-color: indianred;float:left;width:250px;height:160px;}
+    .panel3{background-color: blue;float:left;width:750px;height:160px;}
+    .panel4{background-color: indigo;float:left;width:1000px;height:300px;}
+    .panel5{background-color: white;float:left;width:1000px;height:10px;}
+    .panel6{background-color: white;float:left;width:10px;height:1900px;}
+    .panel7{background-color: yellow;float:left;width:300px;height:190px;}
+    .panel8{background-color: white;float:left;width:10px;height:190px;}
+    .panel9{background-color: green;float:left;width:300px;height:190px;}
+    .panel10{background-color:white;float:left;width:10px;height:190px;}
+    .panel11{background-color:magenta;float:left;width:360px;height:190px;}
+    .panel12{background-color:white;float:left;width:10px;height:190px;}
+    .panel13{background-color:white;float:left;width:1000px;height:190px;}
+    .panel14{background-color:white;float:left;width:10px;height:190px;}
+    .panel15{background-color:lime;float:left;width:980px;height:190px;}
+    .panel16{background-color:white;float:left;width:10px;height:190px;}
+    .panel17{background-color:white;float:left;width:100px;height:190px;}
+    .panel18{background-color:white;float:left;width:10px;height:190px;}
+    .panel19{height:190px;width:300px;background-color:yellow;float:left;}
+.panel20{height:190px;width:10px;background-color:white;float:left;}
+.panel21{height:190px;width:300px;background-color:green;float:left;}
+.panel22{height:190px;width:10px;background-color:white;float:left;}
+.panel23{height:190px;width:360px;background-color:magenta;float:left;}
+.panel24{height:190px;width:10px;background-color:white;float:left;}
+.panel25{height:10px;width:100px;background-color:white;float:left;}
+.panel26{height:190px;width:310px;background-color:cyan;float:left;}
+.panel27{height:190px;width:10px;background-color:white;float:left;}
+.panel28{height:190px;width:300px;background-color:magenta;float:left;}
+.panel29{height:190px;width:10px;background-color:white;float:left;}
+.panel30{height:190px;width:370px;background-color:aquamarine;float:left;}
+.panel31{height:10px;width:1000px;background-color:white;float:left;}
+.panel32{height:190px;width:10px;background-color:white;float:left;}
+.panel33{height:190px;width:300px;background-color:yellow;float:left;}
+.panel34{height:190px;width:10px;background-color:white;float:left;}
+.panel35{height:190px;width:300px;background-color:green;float:left;}
+.panel36{height:190px;width:10px;background-color:white;float:left;}
+.panel37{height:190px;width:360px;background-color:magenta;float:left;}
+.panel38{height:190px;width:10px;background-color:white;float:left;}
+.panel39{height:10px;width:1000px;background-color:white;float:left;}
+.panel40{height:190px;width:10px;background-color:white;float:left;}
+.panel41{height:190px;width:980px;background-color:indigo;float:left;}
+.panel42{height:190px;width:300px;background-color:white;float:left;}
+.panel43{height:190px;width:300px;background-color:white;float:left;}
+.panel44{height:190px;width:300px;background-color:blue;float:left;}
+body{ 
+
+     margin: 30px; 
+
+}
+.panel1{
+    width: 1000px;
+    height: 200px;
+    background-image: url("../images/av4c.jpg");
+    float:left;
+    
+}
+.panel2  img{
+width: 100%;
+height: 100%;
+border-radius: 0 10rem 5rem 10rem;
+}
+    
+.panel3 nav a{
+color:white;
+text-transform:uppercase;
+text-decoration:none;
+padding:5px 5px;
+border-radius: 5rem 0 5rem 0 ; 
+border: 3px solid white;
+}
+.panel3 nav{
+    float: right;
+}
+.panel3 nav a:hover{
+    background-color: brown;
+    border: 3px solid cyan;
+    transition:  all 0.5s ease-in;
+    background-color: rgb(218, 11, 11);
+    box-shadow: 0px 2px ;
+}
+header{
+background-color: blue;
+height: 50px;
+}
+header a{
+    text-decoration:none;
+    color: white;
+    padding: 10px 12px;   
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+header nav{
+    float: right;
+    margin-top: 5pxn;
+}
+section a{
+    text-decoration: none;
+}
